@@ -6,13 +6,14 @@ public class Main {
     float floatNum = 46.77F;
     String food = "Rice";
     char character = 'A';
-System.out.println(NewClass.iHaveEaten(name));
+System.out.println(NewClass.iHaveEaten(food));
 
   }
 }
 
 
   
+
 
 
 // static funtion that returns boolean called Ive eaten
